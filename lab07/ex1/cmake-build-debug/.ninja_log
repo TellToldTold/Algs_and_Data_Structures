@@ -1,0 +1,12 @@
+# ninja log v5
+1	40	1669732338896616903	CMakeFiles/untitled.dir/client.c.o	76ad06c99cd7a319
+1	44	1669725937324847526	CMakeFiles/untitled.dir/tree.c.o	3d8a4522ab894bf9
+1	38	1669732283719143935	CMakeFiles/untitled.dir/treeAddition.c.o	cbd7069676f2ab74
+0	38	1669722072169547535	CMakeFiles/untitled.dir/data.c.o	291d008e11abd423
+40	84	1669732338941380608	untitled	af236cf3200c204c
+0	43	1670240905832953417	build.ninja	7d07e9d46a52fa66
+2	63	1670240908777514794	CMakeFiles/untitled.dir/data.c.o	d41ec5bcfc6398a3
+3	64	1670240908777701000	CMakeFiles/untitled.dir/treeAddition.c.o	f92041d8244f44f8
+2	64	1670240908778125663	CMakeFiles/untitled.dir/client.c.o	5cd3d0b2d6fdc456
+2	64	1670240908779085028	CMakeFiles/untitled.dir/tree.c.o	5af2320b56637173
+65	105	1670240908820434396	untitled	af236cf3200c204c
